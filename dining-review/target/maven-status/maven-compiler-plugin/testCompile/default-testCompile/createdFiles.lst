@@ -1,0 +1,4 @@
+com\example\diningreview\tests\DiningReviewIT.class
+com\example\diningreview\tests\RestaurantIT.class
+com\example\diningreview\tests\BaseTest.class
+com\example\diningreview\tests\UserIT.class

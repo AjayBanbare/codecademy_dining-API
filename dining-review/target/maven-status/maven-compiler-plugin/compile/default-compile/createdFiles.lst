@@ -1,0 +1,12 @@
+com\example\diningreview\repositories\RestaurantRepository.class
+com\example\diningreview\DiningReviewApplication.class
+com\example\diningreview\model\Restaurant.class
+com\example\diningreview\controller\WebController.class
+com\example\diningreview\controller\DiningReviewController.class
+com\example\diningreview\controller\RestaurantController.class
+com\example\diningreview\controller\UserController.class
+com\example\diningreview\repositories\ReviewRepository.class
+com\example\diningreview\model\AdminReviewStatus.class
+com\example\diningreview\model\DiningReview.class
+com\example\diningreview\repositories\UserRepository.class
+com\example\diningreview\model\User.class
